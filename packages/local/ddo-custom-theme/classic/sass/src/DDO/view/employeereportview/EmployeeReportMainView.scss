@@ -1,0 +1,72 @@
+.employeereportform-cls{
+    width:733px !important;
+    left: 250px !important;
+    top: 20px !important;
+}
+
+.employeereportbtn-cls{
+    border-radius: 0 !important;
+}
+.employeereportwin-cls{
+    position: absolute !important;
+    left: 525px !important;
+    top: 120px !important;
+    border-radius: 0% ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.employeereportwin-cls .x-window-header-default{
+     background-color: white !important;
+     border-color: white !important;
+}
+.employeereportwin-cls.x-window-default{
+border: 0px solid white !important;
+}
+.employeereporttxtfield-cls{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.employeereportbtn-cls.x-btn-default-small{
+    border: none !important;
+   border-radius: none !important;
+}
+
+.employeereportwinformtxtfrom-cls{
+    .x-form-text-field-body {
+        border: 1px solid grey !important;
+     border-radius: 5px !important;
+}
+}
+.employeereportwinformtxt-cls{
+    .x-form-text-field-body
+    {
+               border: 1px solid grey !important;
+             border-radius: 5px !important;
+  }
+}
+
+.employeereportwinformto-cls{
+    .x-form-text-default {
+        border: 1px solid grey !important;
+     border-radius: 5px !important;
+}
+}
+
+
+.employeereportsearchbtn-cls{
+    margin-right: 10px !important;
+}
+.employeereportgrid-cls{
+        margin: 10px auto;
+        width: 100% !important;
+        border-radius: 3px;
+        text-align:center !important;
+}
+.employeereportgrid-cls{
+    .x-column-header-inner {
+     background-color:rgba(0, 0, 0, 0.979) !important;
+     color: white;
+    }
+}
+.employeereportdownloadbtn-cls{
+    margin-left: 10px !important;
+    }

@@ -1,0 +1,88 @@
+// .check-btn-cls {
+//     .x-grid-row-checker{
+//         margin-bottom: 80px;
+//  }
+// 	.x-grid-row-checker:before, .x-column-header-checkbox .x-column-header-text{
+// 		font: 18px/1 ExtJS !important;
+// 	}
+// }
+.ddo-search-text{
+    background: #fff;
+    border: 1px solid #aeaeae;
+    // margin-left: 10px !important;
+    width:280px;
+    height:5px;
+    .x-form-text-default {
+        color: #000;
+        padding: 0px 9px 4px;
+        background-color: #fff;
+        font: normal 14px/23px Open Sans;
+        /* min-height: 32px; */
+        border-top-right-radius: 4px;
+        /* border-bottom-right-radius: 8px; */
+    }
+  
+}
+.mom-search-cls{
+.search-icon-field.x-btn-default-toolbar-small {
+     
+    z-index: 1;
+    cursor: initial;
+    /* top: 4px !important; */
+    left: 241px !important;
+    width: 28px !important;
+    height: 26px !important;
+    border-color: #fff !important;
+    background-color: #fff !important;
+    padding: 0px;
+    border-radius: 0px !important;
+    }
+     .hidecolumn-cls{
+        background-color: #2EAB53 !important;
+        border-color: #2EAB53 !important;
+        width:120px;
+        position: relative;
+        .x-btn-inner-default-toolbar-small {
+            font: 400 12px/16px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+            color: #f0f0f0;
+            padding: 0 5px;
+            max-width: 100%;
+        }
+        .x-btn-icon-el-default-toolbar-small {
+            font-size: 16px;
+            height: 16px;
+            color: white;
+            line-height: 16px;
+        }
+     }
+ 
+    }
+//     .hidecolumn-cls.focused{
+//         background-color: black;
+//     }
+//   .hidecolumn-cls  :hover{
+//     background-color: black;
+// }
+// .hidecolumn-cls.x-btn-over{
+//     background-color: black;
+// }
+// .hidecolumn-cls.x-btn-focus{
+//     background-color: black;
+// }
+    .mom-search-cls{
+            padding: 0px !important;
+    }
+
+    .ddoRatingSelfwindow .x-window-body-default{
+        margin-top:2px !important;
+    }
+
+    .column-apply-click{
+        background-color: #2EAB53 !important;
+        border-color: #2EAB53 !important;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) !important;
+        font-family: 'Muli', sans-serif;
+        font-size: 20px;
+        font-weight: bolder;
+        width:70px !important;
+    }

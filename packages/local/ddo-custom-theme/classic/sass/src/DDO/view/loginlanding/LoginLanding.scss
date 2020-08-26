@@ -1,0 +1,18 @@
+.createaccountbtn {
+    border: none !important;
+    // margin: 0px 40px 0px 40px;
+    // left: 60px !important;
+    background-color: #fcba1a !important;
+    @include border-radius(6px);
+    width: 20%;
+    padding: 10px !important;
+    left: 25% !important;
+    left: 41% !important;
+    margin: 0px 0px 30px 0px !important;
+    .x-btn-inner {
+        font-size: 15px;
+        font-weight: 600;
+    }
+}
+
+
